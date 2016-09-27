@@ -2,6 +2,7 @@
 #######################################################################
 scale_keys v1.3
 by Eric Luhta
+github.com/splinecraft
 
 Last update: 7/20/2016
 
